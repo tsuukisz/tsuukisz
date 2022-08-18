@@ -3,7 +3,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
-<p> - 👩🏾‍🎓 Falo inglês avançado e estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Impacta com foco em Data Science através de nanodegrees disponibilizados pela instituição.
+<pre> - 👩🏾‍🎓 Falo inglês avançado e estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Impacta com foco em Data Science através de nanodegrees disponibilizados pela instituição.
 Aliado a isso, estou estudando algumas tecnologias específicas para me tornar analista de dados.
 
 O que estou estudando:
@@ -20,7 +20,7 @@ O que quero aprender futuramente:
 • Big Data (Spark, Databricks, Hadoop)
  </p>
  
-<p> - 😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) </p>  
+<p> - 😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) </pre>  
 </div>
 
 ## O que estou aprendendo:relaxed:
