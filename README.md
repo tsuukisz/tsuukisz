@@ -5,7 +5,7 @@
 <img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
 </div>
 
-😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami :p) 
+😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) 
 
 
 👩🏾‍🎓 Falo inglês avançado e estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Impacta com foco em Data Science através de nanodegrees disponibilizados pela instituição.
