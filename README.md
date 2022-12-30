@@ -19,7 +19,9 @@ O que estou estudando:
 
  • Python
 
- • SQL (SQL Server/MySQL)
+ • SQL (Postgre)
+ 
+ • Figma
 
 O que quero aprender futuramente:
 
