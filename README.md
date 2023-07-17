@@ -1,50 +1,57 @@
+ <h1 align="center"> Carol Magalhães </h1>
 
-## Oie, é a Carol!
-### Sobre mim
-<div style="display: inline_block"  >
-<img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
+    
+<div align="center">
+<b>Product intern | Streamer | Java learner | ☕🐈🏳️‍🌈</b>
+<br>
+<br>
+
+<blockquote>
+    <p><i>
+        "When do you think people die? When they're shot through the heart with a pistol? No. When they have an uncurable disease? No. When they drink soup made from a poisonous mushroom? No! When they are forgotten!" - Eiichiro Oda ☠️
+    </i></p>
+</blockquote>
 </div>
 
-😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) 
+<h2>About me </h2>
+
+---
 
 
-👩🏾‍🎓 Falo inglês avançado e estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Impacta com foco em Data Science através de nanodegrees disponibilizados pela instituição.
-Aliado a isso, estou estudando algumas tecnologias específicas para me tornar analista de dados. </p>
+<div align="right" style="margin:auto">
+     <a href="https://github.com/tsuukisz">
+        <img height="170em"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuukisz&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+             alt="Most used languages"
+             align="right">
+    </a>
+</div>
 
-O que estou estudando:
 
- • Excel
+Hey there!! I am Carol, aka **Tsuukisz**!
 
- • Power BI
+I am currently on 4th semester of System Analysis and Development while also working as an _Product Intern_ for Qred company.
 
- • Python
+I have experience with Data Analytics, Product and am currently learning back-end web programming. My main knowledge in this field, including technologies, softwares and metodologies, are **Postgres**, **Figma**, **Data Studio**, **Jira**, **Slack**, **Agile** and **Java**, since it's the language i'm focused on learning lately and I also know a little bit of **Python**.
+<div>
+    <div align="right" style="margin:auto">
+        <a href="https://wakatime.com/@tsuukisz">
+            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
+                 alt="Wakatime stats" align="right" />
+        </a>
+    </div>
 
- • SQL (Postgre)
+My main abilities include cleaning and analyzing data, developing MVP's and prototypes, documenting features and managing conversations between the differents fields we have inside our company. 
+
+
+</div>
+
+---
+
+<div align="center">
  
- • Figma
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carolmagalhaes.lima@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolmagalhaes/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tsuukisz)
 
-O que quero aprender futuramente:
-
- • AWS
-
- • Data Studio/Tableau
-
- • Big Data (Spark, Databricks, Hadoop)
-
-## Como falar comigo :iphone:
-
-<p align="center">
-    <a href="https://github.com/carol-tsuuki">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/carol-tsuuki">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:carolmagalhaes.lima@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:carolmagalhaes.lima@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/carolmagalhaeslima">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/carolmagalhaeslima/">
-    </a>
-</p>
-
-<p align="center"> 
+</div>
