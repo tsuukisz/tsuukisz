@@ -15,8 +15,6 @@
 
 <h2>About me </h2>
 
----
-
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/tsuukisz">
@@ -28,17 +26,28 @@
 </div>
 
 
+
 Hey there!! I am Carol, aka **Tsuukisz**!
 
 I am currently on 4th semester of System Analysis and Development while also working as an _Product Intern_ for Qred company.
+I have experience with Data Analytics, Product and am currently learning back-end web programming.
 
-I have experience with Data Analytics, Product and am currently learning back-end web programming. My main knowledge in this field, including technologies, softwares and metodologies, are **Postgres**, **Figma**, **Data Studio**, **Jira**, **Slack**, **Agile** and **Java**, since it's the language i'm focused on learning lately and I also know a little bit of **Python**.
+My main knowledge in this field, including technologies, softwares and metodologies, are **Postgres**, **Figma**, **Data Studio**, **Jira**, **Slack**, **Agile** and **Java**, since it's the language i'm focused on learning lately and I also know a little bit of **Python**.
 
+<div>
+    <div align="right" style="margin:auto">
+        <a href="https://wakatime.com/@tsuukisz">
+            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tsuukisz&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
+                 alt="Wakatime stats" align="right" />
+        </a>
+    </div>
 
 My main abilities include cleaning and analyzing data, developing MVP's and prototypes, documenting features and managing conversations between the differents fields we have inside our company. 
 
 
 </div>
+
+
 
 ---
 
