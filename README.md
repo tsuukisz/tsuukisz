@@ -42,7 +42,7 @@ My main knowledge in this field, including technologies, softwares and metodolog
         </a>
     </div>
 
-My main abilities include cleaning and analyzing data, developing MVP's and prototypes, documenting features, processes and managing conversations between the differents fields I have within the company I work for. 
+My main abilities include cleaning and analyzing data, developing MVP's and prototypes, documenting features, processes and managing conversations between the differents fields there are within the company I work for. 
 
 
 </div>
