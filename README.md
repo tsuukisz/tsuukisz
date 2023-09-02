@@ -13,9 +13,6 @@
 </blockquote>
 </div>
 
-<h2>About me </h2>
-
-
 <div align="right" style="margin:auto">
      <a href="https://github.com/tsuukisz">
         <img height="170em"
