@@ -30,6 +30,7 @@
 Hey there!! I am Carol, aka **Tsuukisz**!
 
 I am currently on 4th semester of System Analysis and Development while also working as an _Data Analysis Intern_ for Equinix company.
+
 I have experience with Data Analytics, Product and am currently learning back-end web programming.
 
 My main knowledge in this field, including technologies, softwares and metodologies, are **Postgres**, **Figma**, **Data Studio**, **Jira**, **Slack**, **Agile** and **Java**, since it's the language i'm focused on learning lately and I also know a little bit of **Python**.
