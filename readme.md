@@ -50,4 +50,9 @@
 <img src="https://github.com/tsuukisz/tsuukisz/blob/main/images/stat.svg" alt="Tsuukisz's Wakatime Stats"/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Java   1 min           █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
