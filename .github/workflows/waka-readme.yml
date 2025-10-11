@@ -1,6 +1,8 @@
 name: Waka Readme
 
 on:
+  push:
+    branches: [main]
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
