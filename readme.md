@@ -47,7 +47,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tsuukisz/tsuukisz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tsuukisz/tsuukisz/output/github-contribution-grid-snake.svg">
 </picture>
-<img src="https://github.com/tsuukisz/tsuukisz/blob/main/images/stat.svg" alt="Tsuukisz's Wakatime Stats"/>
+<!-- <img src="https://github.com/tsuukisz/tsuukisz/blob/main/images/stat.svg" alt="Tsuukisz's Wakatime Stats"/> -->
 
 <!--START_SECTION:waka-->
 
