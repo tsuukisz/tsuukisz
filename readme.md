@@ -7,7 +7,7 @@
 
 <img align="right" alt="" height="300px" src="./readmeImg.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=745C9E&width=435&lines=Hi!+I'm+Carol%2C+a+tech+enthusiast+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8C0000&width=435&lines=Hi!+I'm+Carol.;I'm+a+tech+enthusiast+from+Brazil)](https://git.io/typing-svg)
 
 <p align="left">🌙 Graduated in systems analysis and development, Data Analyst & Back-End enthusiast</p>
 
