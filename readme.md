@@ -24,9 +24,9 @@
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="35" alt="js logo"  />
   <img width="8" />
