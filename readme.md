@@ -52,7 +52,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             0 secs          ████████████████████▓░░░░   83.27 %
+Markdown         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
