@@ -52,9 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   0 secs          ███████████████████▒░░░░░   77.64 %
-Java             0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
