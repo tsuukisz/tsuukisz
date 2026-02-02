@@ -52,9 +52,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         0 secs          ██████████████▓░░░░░░░░░░   58.31 %
-GitIgnore file   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.10 %
-Java             0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Java             0 secs          ████████████▓░░░░░░░░░░░░   50.51 %
+Markdown         0 secs          ████████░░░░░░░░░░░░░░░░░   32.18 %
+GitIgnore file   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
 ```
 
 <!--END_SECTION:waka-->
